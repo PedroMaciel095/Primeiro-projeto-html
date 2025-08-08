@@ -15,8 +15,8 @@
  Adicione o arquivo index.html aqui
 
 ---
-git add .
-git commit -m "Adiciona página inicial"
+git add . /
+git commit -m "Adiciona página inicial" /
 git push origin main
 
 
