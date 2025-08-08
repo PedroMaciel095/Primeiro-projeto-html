@@ -11,8 +11,8 @@
 
 ### 2 Envie este arquivo para o repositório:
 
-### Git Bash (por meio dele)
-### Adicione o arquivo index.html aqui
+ Git Bash (por meio dele)
+ Adicione o arquivo index.html aqui
 git add .
 git commit -m "Adiciona página inicial"
 git push origin main
