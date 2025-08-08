@@ -9,10 +9,10 @@
 3. Marque a opção **Public**.
 4. Clique em **Create Repository**.
 
-## 2 Envie este arquivo para o repositório:
+### 2 Envie este arquivo para o repositório:
 
-## Git Bash (por meio dele)
-## Adicione o arquivo index.html aqui
+### Git Bash (por meio dele)
+### Adicione o arquivo index.html aqui
 git add .
 git commit -m "Adiciona página inicial"
 git push origin main
