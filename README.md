@@ -34,3 +34,7 @@ Você pode criar um arquivo `index.html` simples como página inicial: (! + Ente
 
 Feito por [Pedro Maciel]
 
+
+<img width="220" height="238" alt="image" src="https://github.com/user-attachments/assets/d9ebec26-2ba8-4b3d-88aa-7f0e2aec87c0" />
+
+
