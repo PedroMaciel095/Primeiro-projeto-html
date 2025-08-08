@@ -1,5 +1,8 @@
 --  Passo a Passo  -- 
 
+<img width="770" height="433" alt="image" src="https://github.com/user-attachments/assets/2432013c-62d9-40e9-a226-e0fcd78818fc" />
+
+
 ### 1️ Criar um Repositório
 1. No GitHub, clique em **New Repository**.
 2. Escolha um nome (ex.: `meu-site`).
@@ -33,8 +36,5 @@ Você pode criar um arquivo `index.html` simples como página inicial: (! + Ente
 </html>  
 
 Feito por [Pedro Maciel]
-
-
-<img width="220" height="238" alt="image" src="https://github.com/user-attachments/assets/d9ebec26-2ba8-4b3d-88aa-7f0e2aec87c0" />
 
 
